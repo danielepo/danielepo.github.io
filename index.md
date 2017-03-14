@@ -5,10 +5,6 @@ tagline: Super cool
 --- 
 
 
-Darren Hoehna
-dhoehna@yahoo.com
-
-
 # Summary of Qualifications
 * 4 years of C# experience writing, and supporting back-end applications.
 

@@ -27,12 +27,17 @@ author:
   bio: I help enterprises reduce the cost of ownership of their software
   email_md5: a2eaf2964ffd1ef2b92c8119f5d868b2
 
+  skills: [
+    "C#"
+  ]
 #rss_path: feed.xml
 #categories_path: categories.html
 #tags_path: tags.html
 
 # set it as url of an image
 # sidebar_background_image: https://www.dropbox.com/s/g9h23zrycedxtk5/sky.png?raw=1
+
+
 
 BASE_PATH:
 
