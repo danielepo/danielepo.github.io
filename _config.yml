@@ -1,13 +1,13 @@
 # visit https://github.com/mojombo/jekyll/wiki/Configuration for more settings
 
-paginate: 10 # pagination based on number of posts
+paginate: 0 # pagination based on number of posts
 paginate_path: "page:num"
 exclude: ["README.md"] # files to exclude
 highlighter: rouge
 markdown: kramdown
-disqus: dbyll
-google_analytics: dbyll
-title: dbyll
+#disqus: dbyll
+#google_analytics: dbyll
+title: Daniele Pozzobon
 
 defaults:
   -
@@ -18,13 +18,13 @@ defaults:
 
 description: Stylish Jekyll Theme
 author:
-  name: dbyll
+  name: Daniele Pozzobon
   email: dbyll@ismaildemirbilek.com
-  github: dbtek
-  twitter: dbtek
-  pinterest: asd123
-  linkedin: asd123
-  bio: Your stylish, minimalist theme!
+  github: danielepo
+  twitter: pozzobondaniele
+  
+  linkedin: danielepozzobon
+  bio: I help enterprises reduce the cost of ownership of their software
   email_md5: 726351295ec82e145928582f595aa3aa
 
 rss_path: feed.xml
