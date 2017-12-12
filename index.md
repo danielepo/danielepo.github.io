@@ -1,6 +1,6 @@
 --- 
 layout: page 
-title: Daniele Pozzobon
+title: Software Development Consultant, Specialized in Microsoft Technologies
 --- 
 #Who Am I
 I’m a software developer who believe in improving constantly and sharing the knowledge to help the whole community grow, that’s why this year I lead two bootcamps introducing functional programming with F#, presented at two conferences on the topic of DevOps with Visual Studio Team Services and Azure, and also facilitated a local coderetreat for the Global Day of Coderetreat. 
@@ -12,10 +12,10 @@ Technology wise I consider myself what Kent Beck calls a Paint Drip Person as I 
 ## My Passions
 I have a great passion for technology and for learning new things, I like to stay informed on the current status of software development and I like to share what I learn. For example, in the last year I 
  * lead for two introductory bootcamps about Functional Programming with F#
-  * [Introduction to Functional Programming with F#]()
+  * [Introduction to Functional Programming with F#](https://www.slideshare.net/slideshow/embed_code/key/49qJBZI1FEM8sL)
  * spoke at two conferences about implementing DevOps with Visual Studio Team Services and Azure.
   * [Reply's XChange](http://www.reply.com/it/xchange-2017-milano)
-  * [Visual Studio Saturday]() 
+  * [Visual Studio Saturday](https://www.xedotnet.org/eventi/visual-studio-saturday-2017/) 
  * Facilitated a coderetreat for the Global Day of Coderetreat 2017
 
 
@@ -29,21 +29,32 @@ When I have time I like to give some to the Open Source community, which is why 
 
 # Experience
 
-Right now I work as a Consultant in the on Microsoft technologies, specifically Web development of with the .Net Framework.
-## Consultant
-
-
-## Software and hardware develper for Test engineering
+Right now I work as a Consultant on Microsoft technologies in the Insurance industry, specifically I do web development with the .Net Framework. During the last two years I have been also guiding the client on the introduction of the Scrum Methodology. 
 
 
 # Technical Skills
+During the past tree years I've been working with a variety of Web Development tecnologies
+
 ## Languages: 
-*	C#
+* C#
+* F#
+* JavaScript (ES5)
+* TypeScript
 
 ## Technologies
+* WCF
+* AspNet WebForms
+* AspNet MVC 5+
+* SharePoint
 
-# Education
-## University
+
+## Frameworks
+* Backend
+  * .Net Framework 4+
+  * DotNet Core
+* Frontend
+  * Angular 2+
+  * Knockout
 
 # Certifications
-
+I'm a Microsoft Certified ...
