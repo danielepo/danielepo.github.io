@@ -2,7 +2,7 @@
 layout: page 
 title: Software Development Consultant, Specialized in Microsoft Technologies
 --- 
-#Who Am I
+# Who Am I
 I’m a software developer who believe in improving constantly and sharing the knowledge to help the whole community grow, that’s why this year I lead two bootcamps introducing functional programming with F#, presented at two conferences on the topic of DevOps with Visual Studio Team Services and Azure, and also facilitated a local coderetreat for the Global Day of Coderetreat. 
 
 I currently work as a consultant for an big insurance company as a maintainer of an internal web Application. One of my objectives in these two years was to payback the technical debt that has accumulated over the years in this product while adding new functionality to it. I'm also leading the introduction of Scrum in our team which has had an incredible effect in the quality of the software we produce. 
@@ -36,17 +36,22 @@ Right now I work as a Consultant on Microsoft technologies in the Insurance indu
 During the past tree years I've been working with a variety of Web Development tecnologies
 
 ## Languages: 
-* C#
-* F#
-* JavaScript (ES5)
-* TypeScript
+* Mainly
+    * C#
+    * F#
+    * JavaScript (ES5)
+    * TypeScript
+* Past experience
+    * C++
+    * Java
+    * PHP
+    * Brainfuck
 
 ## Technologies
 * WCF
 * AspNet WebForms
 * AspNet MVC 5+
 * SharePoint
-
 
 ## Frameworks
 * Backend
@@ -56,5 +61,11 @@ During the past tree years I've been working with a variety of Web Development t
   * Angular 2+
   * Knockout
 
+## Development Methodologies
+* Agile Development 
+    * Scrum
+    * Extreme Programming
+* Test Driven Development (TDD)
+
 # Certifications
-I'm a Microsoft Certified ...
+I'm an Microsoft Certified Profecional with the [MSCA: Web Applications](https://www.youracclaim.com/badges/9c1650eb-fa14-42bb-9b74-b440e848aa0b/linked_in_profile) Certification issued on September 2016
