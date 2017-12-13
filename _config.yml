@@ -28,7 +28,7 @@ author:
   email_md5: a2eaf2964ffd1ef2b92c8119f5d868b2
 
   skills: [
-    "C#"
+    "C#", "JavaScript", "TypeScript", "F#", "Azure"
   ]
 #rss_path: feed.xml
 #categories_path: categories.html

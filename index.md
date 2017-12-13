@@ -72,5 +72,7 @@ I'm an Microsoft Certified Profecional with the [MSCA: Web Applications](https:/
 
 # Online Presence
 * [LinkedIn](https://www.linkedin.com/in/danielepozzobon/)
-* [StackOverflow](https://stackoverflow.com/users/story/456685)
+* [StackOverflow](https://stackoverflow.com/story/danielepozzobon)
 * [Twitter](https://twitter.com/pozzobondaniele)
+* [Blog](http://codecleane.rs)
+* [GitHub](https://github.com/danielepo)
