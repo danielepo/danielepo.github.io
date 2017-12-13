@@ -69,3 +69,8 @@ During the past tree years I've been working with a variety of Web Development t
 
 # Certifications
 I'm an Microsoft Certified Profecional with the [MSCA: Web Applications](https://www.youracclaim.com/badges/9c1650eb-fa14-42bb-9b74-b440e848aa0b/linked_in_profile) Certification issued on September 2016
+
+# Online Presence
+* [LinkedIn](https://www.linkedin.com/in/danielepozzobon/)
+* [StackOverflow](https://stackoverflow.com/users/story/456685)
+* [Twitter](https://twitter.com/pozzobondaniele)
