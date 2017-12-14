@@ -1,7 +1,7 @@
 ---
 title: About
 layout: page
-title: Software Development Consultant, Specialized in Microsoft Technologies
+
 
 ---
 <!-- ![Profile Image]({{ site.url }}/{{ site.picture }}) -->
