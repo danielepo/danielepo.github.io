@@ -17,10 +17,10 @@ Technology wise I consider myself what Kent Beck calls a Paint Drip Person as I 
 ## My Passions
 I have a great passion for technology and for learning new things, I like to stay informed on the current status of software development and I like to share what I learn. For example, in the last year I 
  * lead for two introductory bootcamps about Functional Programming with F#
-  * [Introduction to Functional Programming with F#](https://www.slideshare.net/slideshow/embed_code/key/49qJBZI1FEM8sL)
+   * [Introduction to Functional Programming with F#](https://www.slideshare.net/slideshow/embed_code/key/49qJBZI1FEM8sL)
  * spoke at two conferences about implementing DevOps with Visual Studio Team Services and Azure.
-  * [Reply's XChange](http://www.reply.com/it/xchange-2017-milano)
-  * [Visual Studio Saturday](https://www.xedotnet.org/eventi/visual-studio-saturday-2017/) 
+   * [Reply's XChange](http://www.reply.com/it/xchange-2017-milano)
+   * [Visual Studio Saturday](https://www.xedotnet.org/eventi/visual-studio-saturday-2017/) 
  * Facilitated a coderetreat for the Global Day of Coderetreat 2017
 
 
