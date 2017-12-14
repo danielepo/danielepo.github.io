@@ -4,7 +4,7 @@ layout: page
 title: Software Development Consultant, Specialized in Microsoft Technologies
 
 ---
-<!-- ![Profile Image]({{ site.url }}/{{ site.picture }}) -->
+![Profile Image]({{ site.url }}/{{ site.picture }})
 
 
 # Who Am I

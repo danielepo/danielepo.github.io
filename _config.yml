@@ -1,6 +1,6 @@
 # main text of home
-name: John Doe
-bio: A Man who travels the world eating noodles
+name: Daniele Pozzobon
+bio: I help enterprises reduce the cost of ownership of their software
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -33,23 +33,7 @@ permalink: /:title/
 #   shortname: mydisqus # enter this from your disqus account
 #   categories: [blog, project] # only show disqus for posts that have these categories
 
-# if you don't have any of social below, comment the line
-facebook: danielepozzobon
-twitter: pozzobondaniele
-# google: mygoogle
-# instagram: myinstagram
-# pinterest: mypinterest
-linkedin: danielepozzobon
-# youtube: myyoutube
-# spotify: myspotify
-github: danielepo
-# lastfm: mylastfm
-stackoverflow: story/danielepozzobon
-# quora: userquora
-# reddit: username
-# medium: medium
-# vimeo: myvimeo
-# lanyrd: mylanyrd
+
 
 author:
     name: Daniele Pozzobon
@@ -58,7 +42,24 @@ author:
     external-image: false
     email_md5: a2eaf2964ffd1ef2b92c8119f5d868b2
     bio: I help enterprises reduce the cost of ownership of their software
-
+    # if you don't have any of social below, comment the line
+    facebook: danielepozzobon
+    twitter: pozzobondaniele
+    # google: mygoogle
+    # instagram: myinstagram
+    # pinterest: mypinterest
+    linkedin: danielepozzobon
+    # youtube: myyoutube
+    # spotify: myspotify
+    github: danielepo
+    # lastfm: mylastfm
+    stackoverflow: story/danielepozzobon
+    # quora: userquora
+    # reddit: username
+    # medium: medium
+    # vimeo: myvimeo
+    # lanyrd: mylanyrd
+    blog: https://codecleane.rs
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
 # normal = 560px / large = 810px

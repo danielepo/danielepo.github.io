@@ -2,24 +2,25 @@
    or page.title == "Blog"
    or page.title == "Projects"
    or page.title == "Tags"
+   or page.title == "About"
 %}{% assign showHeader = true %}{% endif %}
 
 {% if showHeader == true %}
     <header class="header-home {% if site.animation %}animated{% endif %}">
         {% if site.about %}
             <a class="link" href="{{ site.url }}/about">
-                <img class="selfie" alt="{{ site.name }}" src="//www.gravatar.com/avatar/{{site.author.email_md5}}?s=150" class="img-circle" />
+                <img class="selfie" alt="{{ site.author.name }}" src="//www.gravatar.com/avatar/{{site.author.email_md5}}?s=150" class="img-circle" />
                 <!-- <img class="selfie" alt="{{ site.name }}" src="{% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %}" /> -->
             </a>
         {% else %}
             <span class="link">
-                <img class="selfie" alt="{{ site.name }}" src="//www.gravatar.com/avatar/{{site.author.email_md5}}?s=150" class="img-circle" />
+                <img class="selfie" alt="{{ site.author.name }}" src="//www.gravatar.com/avatar/{{site.author.email_md5}}?s=150" class="img-circle" />
                 <!-- <img class="selfie" alt="{{ site.name }}" src="{% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %}" /> -->
             </span>
         {% endif %}
 
-        <h1 class="title">{{ site.name }}</h1>
-        <h2 class="description">{{ site.bio }}</h2>
+        <h1 class="title">{{ site.author.name }}</h1>
+        <h2 class="description">{{ site.author.bio }}</h2>
 
         {% include social-links.html %}
     </header>
